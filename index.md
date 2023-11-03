@@ -1,17 +1,30 @@
-# hello-world
-## hello-world
-### hello-world
-### **bold text**
-### *italicised text*
-> block quote
-1. first item
-2. second item
-3. third item
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+<nav class="navbar">
+<ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li>
+        <a href="#">Documentation</a>
+                <ul>
+                    <li><a href="#">Option 1</a></li>
+                    <li><a href="#">Option 2</a></li>
+                    <li><a href="#">Option 3</a></li>
+                </ul>
+    </li>
+    <li><a href="#">Contact</a></li>
+</ul>
+</nav>
+<body>
 
-- first item
-- second item
-- third item
-'code'
+<h1>Tr3spasser's ME2023 Website</h1>
+<p style="text-align: center;">
+    Welcome to my Digital Fabrication & Prototyping Fundamentals, ME2023 Project Website! Here I will document what I learnt during this module through text, photos and videos. Some things I will document include the process involved to create this website you are visiting and my 2D and 3D CAD assignments.
+</p>
 
---------------------
-[title](https://tr3spasser.github.io/hello-world/)
+
+</body>
+</html>
