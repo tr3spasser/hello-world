@@ -11,7 +11,7 @@ h1 {
 .navbar ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: auto;
 background: black;
 }
 
@@ -22,7 +22,7 @@ background: black;
 .navbar li a {
     color: white;
     display: block;
-    padding: 10px 20px;
+    padding: 10px 30px;
     text-decoration: none;
 }
 
@@ -44,4 +44,16 @@ background: black;
 /* Change the background color of dropdown links on hover */
 .navbar ul ul li a:hover {
     background-color: #555;
+}
+
+.centre{
+   
+        width: 500px;
+        height: 100px;
+        padding-right: 20;
+        padding-top: 5px;
+        padding-bottom: 15px;
+        border: 5px solid gray;
+        margin: auto;
+    
 }
