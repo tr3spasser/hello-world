@@ -11,7 +11,7 @@ h1 {
 .navbar ul {
     list-style-type: none;
     margin: 0;
-    padding: auto;
+    padding: 0;
 background: black;
 }
 
@@ -22,7 +22,7 @@ background: black;
 .navbar li a {
     color: white;
     display: block;
-    padding: 10px 30px;
+    padding: 10px 20px;
     text-decoration: none;
 }
 
