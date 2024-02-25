@@ -72,3 +72,8 @@ p{
 h2 {
     color: rgb(255, 255, 255);
 }
+
+img.resize {
+    width:540px; /* you can use % */
+    height: auto;
+}
