@@ -73,7 +73,7 @@ h2 {
     color: rgb(255, 255, 255);
 }
 
-img.resize {
-    width:540px; /* you can use % */
-    height: auto;
+img {
+  width: 400px;
+  height: auto;
 }
